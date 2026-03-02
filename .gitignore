@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+rl-env/
+
+# Models & checkpoints
+*.pth
+*.ckpt
+
+# Logs
+videos/
+lightning_logs/
+
+# Mac system files
+.DS_Store
